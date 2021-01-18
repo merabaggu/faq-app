@@ -1,5 +1,5 @@
 import React from 'react'
-import {Box,Text,Flex,Heading,Accordion,AccordionItem,AccordionButton,AccordionPanel,AccordianIcon} from '@chakra-ui/react';
+import {Box,Text,Flex,Heading,Accordion,AccordionItem,AccordionButton,AccordionPanel} from '@chakra-ui/react';
 import FAQ_List from './faq.json';
 export const Faq = ({index,setIndex}) => {
     return (
