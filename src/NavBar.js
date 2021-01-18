@@ -5,7 +5,7 @@ export const NavBar = () => {
     return (
        <Flex align="center" boxShadow="base" p="2" mb="2">
            <Box p="2">
-               <Heading size="lg">React Interview Question Voice</Heading>
+               <Heading size="lg">React Interview</Heading>
            </Box>
            <Spacer />
            <Box>
