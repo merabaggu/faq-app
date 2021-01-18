@@ -6,4 +6,10 @@
     "id":2,
     "question": "What are the major features of React",
     "answer": "The major features of React are 1.It uses VirtualDOM instead of RealDOM considering that RealDOM manipulations are expensive 2.Supports server-side rendering 3.Follows Unidirectional data flow or data binding 4.Uses reusable/composable UI components to develop the view"
+},
+{
+    "id":3,
+    "question": "Backchod group kya hai",
+    "answer": "Ye group Armapur ke londo ka hai .jsme kevel BC hoti hai Bolo RK BK CHINTU DILIP KHAN BHAI OR DARDA KI JAI"
+
 }]
